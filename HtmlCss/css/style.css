@@ -1,0 +1,183 @@
+body{
+width:auto;
+height:auto;
+}
+
+h1{
+padding-left: 20px;
+color:white;
+
+font-family: verdana;
+
+}
+
+
+
+
+header{
+    position: fixed;
+    background:#302e2e;
+    margin-top: -10;
+    width: 100%;
+
+}
+
+.topmenu {
+	width:100%;
+    height:70px;
+    float:right;
+
+    background-color: black;
+    overflow: hidden;
+    margin-top: 70px;
+}
+
+
+.topmenu a {
+    float: left;
+      text-align: center;
+    color: #f2f2f2;
+       padding: 13px 120px;
+    display: block;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.topmenu li{
+    display: inline;
+
+}
+
+.topmenu a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+.topmenu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+table{
+width:100%
+
+}
+
+
+
+.herounit {
+    height: 50%;
+   
+position: relative;
+
+   background-position: center;
+ 
+
+}
+
+
+.herotext {
+    
+    position: absolute;
+    top: 42%;
+    
+    color: black;
+    font-weight: bold;
+    font-size: 30;
+
+}
+
+.herotext p  {
+    margin-top: 75px;
+margin-left: 800px;
+}
+.herotext form {
+    margin-top: 40px;
+margin-left: 800px;
+}
+
+
+
+.movie1 img{
+    padding: 10px;
+ width:30%;
+ height: 500px;
+ float: left;
+
+}
+
+.sectionbody{
+    padding-top: 225px;
+    padding-left: 60px;
+}
+
+.movie2 img{
+    padding: 10px;
+ width:30%;
+ height: 500px;
+ float: left;
+
+}
+
+.movie3 img{
+    padding: 10px;
+ width:30%;
+ height: 500px;
+ }
+
+.gridmain li{
+    display: inline;
+    padding-right: 30px;
+
+}
+
+.gridmain a{
+    text-decoration: none;
+    color:white;
+}
+footer{
+    clear: both;
+    background:#302e2e;
+    top: auto;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   width: 100%;
+margin: 0;
+
+}
+
+.post{
+    margin:auto;
+    text-align:right;
+    margin-right: 20px;
+    font-size: 20;
+color:white;
+}
+
+footer li{
+    color:white;
+    font-size: 20;
+
+
+}
+
+.logos p{
+    margin-left: 1%;
+    color:white;
+    font-size: 20;
+
+}
+
+.logos li{
+    display:inline;
+    text-decoration: none;
+    margin left: 1%;
+    font-size: 20;
+    color:white;
+
+}
